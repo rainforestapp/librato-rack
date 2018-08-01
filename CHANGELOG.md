@@ -1,3 +1,6 @@
+### Version 1.1.1
+* Do not downcase HTTP_METHOD in place
+
 ### Version 1.1.0
 * Fix deprecation warnings in ruby 2.4 (#57, Ben Radler)
 
